@@ -96,7 +96,7 @@ public class AppStart implements Runnable {
 		JLabel _delayLabel = new JLabel("Request Delay (seconds): ");
 
 		_senderInput.setText("1");
-		_targetInput.setText("https://gugino.org");
+		_targetInput.setText("https://");
 		_clientInput.setText("200");
 		_delayInput.setText("10");
 
